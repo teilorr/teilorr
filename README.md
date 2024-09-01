@@ -22,7 +22,9 @@
         <br/>
         <br/>
         <br/>
-          <img src="images/globe.gif" height="80"/>
+        <p>
+          <img src="images/globe.gif"/>
+        </p>
       </a>
     </td>
     <td align="center">
@@ -32,7 +34,7 @@
         <br/>
         <br/>
         <p>
-          <img src="images/music.gif" height="80"/>
+          <img src="images/music.gif"/>
         </p>
       </a>
     </td>
