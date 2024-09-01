@@ -4,7 +4,7 @@
   <br />
   <br />
   
-  <img height="50" alt="My name is teilorr." src="https://github.com/teilorr/teilorr/blob/main/images/whoami.png?raw=true" />
+  <img height="25" alt="My name is teilorr." src="https://github.com/teilorr/teilorr/blob/main/images/whoami.png?raw=true" />
   
   <br />
   <br />
