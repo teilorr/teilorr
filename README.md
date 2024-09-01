@@ -27,7 +27,6 @@
         <p/>
       <a/>
     <td/>
-
     <td align="center">
       <a href="https://google.com">
         <strong>Check out my Spotify!<strong/>
