@@ -14,13 +14,20 @@
   <br/>
 </div>
 
-<div align="left">
-  <img 
-    src=https://github.com/teilorr/teilorr/blob/main/images/skills.png?raw=true 
-    alt="Skills"
-    height="65"
-  /><br/>
+<table widht="100%" align="center">
+  <tr>
+    <td align="center">
+      <a href="https://discord.com">
+        <strong>Add me on discord!<strong/>
+        <br/>
+        <br/>
+        <br/>
+        
+        <p>
+          <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true" height="80"/>
+        <p/>
+      <a/>
+    <td/>
+  <tr/>
 
-  <strong> - Python<strong/><br/>
-  <strong> - NodeJS<strong/><br/>
-</div>
+<table/>
