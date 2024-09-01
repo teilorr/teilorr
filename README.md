@@ -20,6 +20,7 @@
     alt="Skills"
     height="65"
   /><br/>
+
   <strong> - Python<strong/><br/>
   <strong> - NodeJS<strong/><br/>
 </div>
