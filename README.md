@@ -33,7 +33,9 @@
         <br/>
         <br/>
         <br/>
-        <img src="images/globe.gif" height="80"/>
+        <p>
+          <img src="images/music.gif" height="80"/>
+        <p/>
       <a/>
     <td/>
   <tr/>
