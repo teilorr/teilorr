@@ -23,7 +23,7 @@
         <br/>
         <br/>
         <p>
-          <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true" height="80"/>
+          <img src="https://github.com/teilorr/teilorr/blob/main/images/globe.gif?raw=true" height="80"/>
         <p/>
       <a/>
     <td/>
@@ -34,7 +34,7 @@
         <br/>
         <br/>
         <p>
-          <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/music.gif?raw=true" height="80"/>
+          <img src="https://github.com/teilorr/teilorr/blob/main/images/music.gif?raw=true" height="80"/>
         <p/>
       <a/>
     <td/>
