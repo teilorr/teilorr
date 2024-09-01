@@ -18,7 +18,7 @@
   <img 
     src=https://github.com/teilorr/teilorr/blob/main/images/skills.png?raw=true 
     alt="Skills"
-    height="25"
+    height="45"
   /><br/>
   <strong>- Python<strong/><br/>
   <strong>- NodeJS<strong/><br/>
