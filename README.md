@@ -15,7 +15,11 @@
 </div>
 
 <div align="left">
-  <img src=https://github.com/teilorr/teilorr/blob/main/images/skills.png?raw=true alt="Skills"/><br/>
+  <img 
+    src=https://github.com/teilorr/teilorr/blob/main/images/skills.png?raw=true 
+    alt="Skills"
+    height="25"
+  /><br/>
   <strong>- Python<strong/><br/>
   <strong>- NodeJS<strong/><br/>
 </div>
