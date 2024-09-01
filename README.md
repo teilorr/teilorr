@@ -22,12 +22,20 @@
         <br/>
         <br/>
         <br/>
-        
         <p>
           <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true" height="80"/>
         <p/>
       <a/>
     <td/>
+    <td align="center">
+      <a href="https://google.com">
+        <strong>Check out my Spotify!<strong/>
+        <br/>
+        <br/>
+        <br/>
+        <p>
+          <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/music.gif?raw=true" height="80"/>
+        <p/>
+      <a/>
+    <td/>
   <tr/>
-
-<table/>
