@@ -24,9 +24,9 @@
         <br/>
         <p>
           <img src="images/globe.gif" height="80"/>
-        <p/>
-      <a/>
-    <td/>
+        </p>
+      </a>
+    </td>
     <td align="center">
       <a href="https://google.com">
         <strong>Check out my Spotify!<strong/>
@@ -35,7 +35,7 @@
         <br/>
         <p>
           <img src="images/music.gif" height="80"/>
-        <p/>
-      <a/>
-    <td/>
-  <tr/>
+        </p>
+      </a>
+    </td>
+  </tr>
