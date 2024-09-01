@@ -22,9 +22,7 @@
         <br/>
         <br/>
         <br/>
-        <p>
           <img src="images/globe.gif" height="80"/>
-        </p>
       </a>
     </td>
     <td align="center">
